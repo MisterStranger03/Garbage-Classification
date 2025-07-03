@@ -62,9 +62,9 @@ A machine learning project to classify waste into 6 categories using EfficientNe
 ---
 
 ## 📦 Model
-- Final model: `EfficientNetV2B2.keras`
+- Final model: `Effiicientnetv2b2.keras`
 - Trained on 6-class waste dataset with transfer learning
-- Best validation accuracy achieved: **_X.XX%_** (fill in)
+- Best validation accuracy achieved: **_96.88%_**
 
 ---
 
