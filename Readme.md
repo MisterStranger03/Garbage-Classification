@@ -50,7 +50,6 @@ A machine learning project to classify waste into 6 categories using EfficientNe
   - Compact preview image display
   - Reduced scroll overhead
   - Custom button logic for “Start”/“Stop” live prediction
-- Deployed via Streamlit Cloud and explored stlite (Pyodide) for GitHub Pages hosting
 
 ---
 
@@ -59,7 +58,6 @@ A machine learning project to classify waste into 6 categories using EfficientNe
 - **Streamlit**
 - **Pandas, NumPy, Matplotlib**
 - **OpenCV** (for live webcam)
-- **stlite** (experimental browser-side hosting)
 
 ---
 
